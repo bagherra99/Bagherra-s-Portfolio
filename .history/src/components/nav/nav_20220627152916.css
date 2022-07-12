@@ -1,0 +1,6 @@
+nav{
+    background: rgba(0, 0, 0, 0.3);
+    max-width: max-content;
+    display: block;
+    z-index: 2;
+}

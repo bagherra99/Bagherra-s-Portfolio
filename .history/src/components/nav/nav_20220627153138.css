@@ -1,0 +1,10 @@
+nav{
+    background: rgba(0, 0, 0, 0.3);
+    max-width: max-content;
+    display: block;
+    z-index: 2;
+    position: fixed;
+    padding: 0.9rem 1.7rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
