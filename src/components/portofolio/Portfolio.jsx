@@ -47,7 +47,7 @@ const data = [
     },
     {
         id:6,
-        image: img3,
+        image:img3,
         title: "This is a portfolio item title",
         github: "https://github.com",
         demo: "https://github.com"
